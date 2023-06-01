@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 当然， 写的最多的是HBuilderX插件。
 
-- HBuilderX插件： [https://github.com/hx-extension](https://github.com/hx-extension)
+- HBuilderX插件集合或列表： [https://github.com/hx-extension](https://github.com/hx-extension)
 - HBuilderX EasyGit插件： [https://ext.dcloud.net.cn/plugin?id=2475](https://ext.dcloud.net.cn/plugin?id=2475)
 - iOS应用： SwiftFlow， 已上架到Apple Store. [https://apps.apple.com/cn/app/swiftflow/id16438218](https://apps.apple.com/cn/app/swiftflow/id1643821819)
 - [Bug管理系统](https://github.com/HereDesk) 前端Vue-ci, 接口python+Django
