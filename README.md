@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 我是一名软件测试工程师, 偶尔写点代码， 包括iOS应用、HBuilderX编辑器插件、web项目。
 
-写的最多的是HBuilderX插件。
+当然， 写的最多的是HBuilderX插件。
 
 - HBuilderX插件： [https://github.com/hx-extension](https://github.com/hx-extension)
 - HBuilderX EasyGit插件： [https://ext.dcloud.net.cn/plugin?id=2475](https://ext.dcloud.net.cn/plugin?id=2475)
