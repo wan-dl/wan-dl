@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 - HBuilderX插件： [https://github.com/hx-extension](https://github.com/hx-extension)
 - HBuilderX EasyGit插件： [https://ext.dcloud.net.cn/plugin?id=2475](https://ext.dcloud.net.cn/plugin?id=2475)
-- iOS应用： SwiftFlow， 已上架到Apple Store. [查看地址]（https://apps.apple.com/cn/app/swiftflow/id1643821819）
+- iOS应用： SwiftFlow， 已上架到Apple Store. [https://apps.apple.com/cn/app/swiftflow/id16438218](https://apps.apple.com/cn/app/swiftflow/id1643821819)
 - [Bug管理系统](https://github.com/HereDesk) 前端Vue-ci, 接口python+Django
