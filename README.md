@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是一名软件测试工程师, 偶尔写点代码， 包括iOS应用、HBuilderX编辑器插件、web项目。
+我是一名软件测试工程师, 偶尔写点代码， 包括iOS应用、MacOSX桌面应用、HBuilderX编辑器插件、web项目。
 
 当然， 写的最多的是HBuilderX插件。
 
