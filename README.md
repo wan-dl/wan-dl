@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 🌱 HBuilderX插件集合或列表： [https://github.com/wan-hx](https://github.com/wan-hx)
 - 🌱 HBuilderX EasyGit插件： [https://ext.dcloud.net.cn/plugin?id=2475](https://ext.dcloud.net.cn/plugin?id=2475)
 - 🌱 Bug管理系统：包含前端Vue-ci, 接口python+Django+MySQL [Git仓库](https://github.com/HereDesk)
--  iOS应用：SwiftFlow，已上架到Apple Store. [https://apps.apple.com/cn/app/swiftflow/id16438218](https://apps.apple.com/cn/app/swiftflow/id1643821819)
+
+- MacOSX桌面应用，主要是对Android SDK命令行的封装。[https://github.com/wan-dada/android-bicycle](https://github.com/wan-dada/android-bicycle)
+-  iOS应用：SwiftFlow [https://github.com/wan-dada/swift-swiftui-example](https://github.com/wan-dada/swift-swiftui-example)，已上架到Apple Store. [Apple Store应用地址](https://apps.apple.com/cn/app/swiftflow/id1643821819)
