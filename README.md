@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 🌱 Bug管理系统：包含前端Vue-ci, 接口python+Django+MySQL [Git仓库](https://github.com/HereDesk)
 
 - MacOSX桌面应用，主要是对Android SDK命令行的封装。[https://github.com/wan-dada/android-bicycle](https://github.com/wan-dada/android-bicycle)
+- MacOSX桌面应用， Git UI应用, 类似SourceTree。 [https://github.com/git-hives/GitHive](https://github.com/git-hives/GitHive)
+
 -  iOS应用：SwiftFlow [https://github.com/wan-dada/swift-swiftui-example](https://github.com/wan-dada/swift-swiftui-example)，已上架到Apple Store. [Apple Store应用地址](https://apps.apple.com/cn/app/swiftflow/id1643821819)
