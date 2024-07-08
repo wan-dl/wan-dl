@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 -  iOS应用：SwiftFlow [https://github.com/wan-dada/swift-swiftui-example](https://github.com/wan-dada/swift-swiftui-example)，已上架到Apple Store. [Apple Store应用地址](https://apps.apple.com/cn/app/swiftflow/id1643821819)
 
-一些测试文档记录:[https://wan-lights.github.io/](https://wan-lights.github.io/)
+一些测试文档记录:[https://wan-dl.github.io/](https://wan-dl.github.io/)
