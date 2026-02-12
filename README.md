@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**wan-dada/wan-dada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 HBuilderX EasyGit插件，下载量10万+： [https://ext.dcloud.net.cn/plugin?id=2475](https://ext.dcloud.net.cn/plugin?id=2475)
 - 🌱 Bug管理系统：包含前端Vue-ci, 接口python+Django+MySQL [Git仓库](https://github.com/HereDesk)
 
-- MacOSX桌面应用，主要是对Android SDK命令行的封装。[https://github.com/wan-dada/android-bicycle](https://github.com/wan-dada/android-bicycle)
+- 跨平台模拟器管理可视化工具（Android、iOS、Harmony模拟器）[https://github.com/wan-dl/SimHub](https://github.com/wan-dl/SimHub)
 - MacOSX桌面应用， Git UI应用, 类似SourceTree。 [https://github.com/git-hives/GitHive](https://github.com/git-hives/GitHive)
 
 -  iOS应用：SwiftFlow [https://github.com/wan-dada/swift-swiftui-example](https://github.com/wan-dada/swift-swiftui-example)，已上架到Apple Store. [Apple Store应用地址](https://apps.apple.com/cn/app/swiftflow/id1643821819)
